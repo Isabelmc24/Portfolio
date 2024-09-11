@@ -30,7 +30,7 @@ A Python-based application designed to help users manage their personal finances
      ```bash
    
      ```
-- **Repository:** [GitHub - Budget Tracker](https://github.com/Isabelmc24/Portfolio/tree/main/budget-tracker)
+
 
 ### 2. Hangman Game
 
@@ -58,7 +58,6 @@ A classic Hangman game implemented in Python. Players guess letters to complete 
      ```bash
   
      ```
-- **Repository:** [GitHub - Hangman Game](https://github.com/Isabelmc24/Portfolio/tree/main/hangman-game)
 
 ## Getting Started
 
@@ -66,7 +65,7 @@ To explore and run these projects, clone this repository and follow the respecti
 
 ## Contact
 
-- **Email:** your.email@example.com
+- **Email:** Isabel.Chavezmc24@gmail.com
 - **LinkedIn:** [MChavez - Information Technology](https://www.linkedin.com/in/mchavez-information-technology)
 - **GitHub:** [Isabelmc24 on GitHub](https://github.com/Isabelmc24)
 
