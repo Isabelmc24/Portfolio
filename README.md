@@ -13,24 +13,6 @@ A Python-based application designed to help users manage their personal finances
   - Add and manage purchase details
   - View current budget and expenditures
   - Save and load budget data from JSON files
-- **Installation:**
-  1. Clone the repository:
-     ```bash
-
-     ```
-  2. Navigate to the project directory:
-     ```bash
-
-     ```
-  3. Install dependencies (if applicable):
-     ```bash
-   
-     ```
-  4. Run the application:
-     ```bash
-   
-     ```
-
 
 ### 2. Hangman Game
 
@@ -45,19 +27,6 @@ A classic Hangman game implemented in Python. Players guess letters to complete 
   - Run the game using Python.
   - Guess letters to reveal the hidden word.
   - You have 10 attempts to guess the word correctly.
-- **Installation:**
-  1. Clone the repository:
-     ```bash
-   
-     ```
-  2. Navigate to the project directory:
-     ```bash
-   
-     ```
-  3. Run the game:
-     ```bash
-  
-     ```
 
 ## Getting Started
 
